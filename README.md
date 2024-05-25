@@ -64,3 +64,4 @@ NOTE: ngrok can timeout. you need to restart the session if you see session expi
 
 Project Snapshots
 ===================
+![Screenshot 2024-05-25 144622](https://github.com/patilabhi20/object_recongination.project_1/assets/157373320/bbac14f7-1210-44bd-b4d6-98622aafd864)
